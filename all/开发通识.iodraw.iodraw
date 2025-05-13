@@ -132,28 +132,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="B8czsp0jkL-Ja6ON_q9m-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="1567" as="sourcePoint" />
-            <mxPoint x="560" y="1580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-27" value="4. 数据合规" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-26">
-          <mxGeometry x="0.1191" y="-4" relative="1" as="geometry">
-            <mxPoint x="-13" y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.016;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560.0000000000001" y="1543.3333333333333" as="sourcePoint" />
-            <mxPoint x="431.44000000000005" y="1539.4999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-30" value="3. 校验数据是否合规" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-29">
-          <mxGeometry x="-0.3634" relative="1" as="geometry">
-            <mxPoint x="-19" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-21" target="B8czsp0jkL-Ja6ON_q9m-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -165,7 +143,7 @@
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-24" target="B8czsp0jkL-Ja6ON_q9m-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-34" value="8. 存储sessionID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-33">
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-34" value="1. 获取存储的sessionID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-33">
           <mxGeometry x="-0.1014" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
