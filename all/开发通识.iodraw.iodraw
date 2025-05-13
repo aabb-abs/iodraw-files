@@ -165,7 +165,7 @@
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-37" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="1730" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-38" target="B8czsp0jkL-Ja6ON_q9m-41">
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-38" target="B8czsp0jkL-Ja6ON_q9m-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-38" value="服务器 A" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
@@ -242,6 +242,9 @@
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-65" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;第二种情况&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="2050" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-40" target="B8czsp0jkL-Ja6ON_q9m-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
