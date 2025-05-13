@@ -158,10 +158,7 @@
           <mxGeometry x="80" y="1730" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-38" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1660" width="41" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-39" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1670" width="41" height="50" as="geometry" />
+          <mxGeometry x="260" y="1660" width="73.8" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
