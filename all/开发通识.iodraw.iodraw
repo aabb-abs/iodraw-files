@@ -163,7 +163,7 @@
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-40" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="176.2" y="1830" width="73.8" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-41" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-41" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="320" y="1660" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
