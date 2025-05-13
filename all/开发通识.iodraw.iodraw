@@ -218,10 +218,7 @@
           <mxGeometry x="166.2" y="2270" width="73.8" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-59" value="&lt;div&gt;用户信息&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="310" y="2080" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-60" value="内存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="2170" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="2190" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.03;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-56" target="B8czsp0jkL-Ja6ON_q9m-58">
           <mxGeometry relative="1" as="geometry">
@@ -238,6 +235,9 @@
           <mxGeometry x="40" y="2050" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-40" target="B8czsp0jkL-Ja6ON_q9m-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-57" target="B8czsp0jkL-Ja6ON_q9m-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
