@@ -125,7 +125,7 @@
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-24" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1340" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-25" value="7. 返回sessionID" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-25" value="7. 返回登录成功信息" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry x="0.4706" y="-10" relative="1" as="geometry">
             <mxPoint x="570" y="1530" as="sourcePoint" />
             <mxPoint x="570" y="1394" as="targetPoint" />
