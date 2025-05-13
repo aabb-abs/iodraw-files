@@ -135,7 +135,7 @@
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-21" target="B8czsp0jkL-Ja6ON_q9m-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-32" value="5. 获取用户的sessionID&lt;div&gt;6. 存储用户的session登录态&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-31">
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-32" value="3. 获取用户的sessionID&lt;div&gt;4. 检查是否有存储该用户的session&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-31">
           <mxGeometry x="-0.1559" relative="1" as="geometry">
             <mxPoint x="50" y="37" as="offset" />
           </mxGeometry>
