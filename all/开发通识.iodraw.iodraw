@@ -240,8 +240,10 @@
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-40" target="B8czsp0jkL-Ja6ON_q9m-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-57" target="B8czsp0jkL-Ja6ON_q9m-59">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" target="B8czsp0jkL-Ja6ON_q9m-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="2150" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-71" value="公共内存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="2280" width="60" height="30" as="geometry" />
