@@ -183,13 +183,13 @@
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-50" value="内存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="1920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.03;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="B8czsp0jkL-Ja6ON_q9m-37" target="B8czsp0jkL-Ja6ON_q9m-40">
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.03;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="B8czsp0jkL-Ja6ON_q9m-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="1755" as="sourcePoint" />
             <mxPoint x="190" y="1685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-52" value="第一次登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-51">
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-52" value="获取当前登录信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-51">
           <mxGeometry x="-0.1469" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
