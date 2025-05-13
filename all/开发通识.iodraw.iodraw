@@ -52,6 +52,11 @@
             <mxPoint x="640" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-5" value="发起登录请求&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-4">
+          <mxGeometry x="-0.0731" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-2" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="930" width="100" height="50" as="geometry" />
         </mxCell>
