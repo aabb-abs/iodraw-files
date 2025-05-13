@@ -194,8 +194,8 @@
             <mxPoint x="8" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-53" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1610" width="60" height="30" as="geometry" />
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-53" value="第一种情况" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1610" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
