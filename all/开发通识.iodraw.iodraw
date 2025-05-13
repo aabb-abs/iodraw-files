@@ -66,10 +66,15 @@
             <mxPoint x="580" y="984" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="B8czsp0jkL-Ja6ON_q9m-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="1157" as="sourcePoint" />
             <mxPoint x="570" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-15" value="4. 数据合规" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-14">
+          <mxGeometry x="0.1191" y="-4" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-11" value="数据库" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
