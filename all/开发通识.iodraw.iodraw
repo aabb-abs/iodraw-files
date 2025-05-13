@@ -117,7 +117,7 @@
             <mxPoint x="650" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B8czsp0jkL-Ja6ON_q9m-23" value="1. 发起登录请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-22">
+        <mxCell id="B8czsp0jkL-Ja6ON_q9m-23" value="1. 发起登录请求&lt;div&gt;（携带sessionID）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B8czsp0jkL-Ja6ON_q9m-22">
           <mxGeometry x="-0.0731" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="15" as="offset" />
           </mxGeometry>
