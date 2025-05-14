@@ -285,6 +285,9 @@
         <mxCell id="TU-vGyZBUMa37fPqmY-d-11" value="抛异常" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="2950" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TU-vGyZBUMa37fPqmY-d-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572" y="2670" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
