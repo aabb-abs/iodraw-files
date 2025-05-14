@@ -286,7 +286,7 @@
           <mxGeometry x="590" y="2950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TU-vGyZBUMa37fPqmY-d-15" value="&amp;amp;&amp;amp;两边都成立才为true才会进去if语句内" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="572" y="2650" width="138" height="30" as="geometry" />
+          <mxGeometry x="610" y="2650" width="138" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
