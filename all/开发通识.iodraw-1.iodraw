@@ -259,6 +259,11 @@
         <mxCell id="TU-vGyZBUMa37fPqmY-d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TU-vGyZBUMa37fPqmY-d-5" target="TU-vGyZBUMa37fPqmY-d-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TU-vGyZBUMa37fPqmY-d-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TU-vGyZBUMa37fPqmY-d-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="2800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TU-vGyZBUMa37fPqmY-d-5" value="是否为管理员" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="435" y="2700" width="150" height="90" as="geometry" />
         </mxCell>
