@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="DlX64eZTJK6a1wTfyZpe">
-    <mxGraphModel dx="626" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1789" dy="2426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,12 +44,12 @@
           <mxGeometry y="112" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-1" value="服务器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1120" width="100" height="50" as="geometry" />
+          <mxGeometry x="360" y="992" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="980" as="sourcePoint" />
-            <mxPoint x="660" y="1120" as="targetPoint" />
+            <mxPoint x="450" y="852" as="sourcePoint" />
+            <mxPoint x="450" y="992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-5" value="1. 发起登录请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B8czsp0jkL-Ja6ON_q9m-4" vertex="1" connectable="0">
@@ -58,19 +58,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-2" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="930" width="100" height="50" as="geometry" />
+          <mxGeometry x="360" y="802" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-8" value="7. 返回sessionID" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry x="0.1765" y="-10" relative="1" as="geometry">
-            <mxPoint x="580" y="1120" as="sourcePoint" />
-            <mxPoint x="580" y="984" as="targetPoint" />
+            <mxPoint x="370" y="992" as="sourcePoint" />
+            <mxPoint x="370" y="856" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="B8czsp0jkL-Ja6ON_q9m-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="1157" as="sourcePoint" />
-            <mxPoint x="570" y="1170" as="targetPoint" />
+            <mxPoint x="230" y="1029" as="sourcePoint" />
+            <mxPoint x="360" y="1042" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-15" value="4. 数据合规" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B8czsp0jkL-Ja6ON_q9m-14" vertex="1" connectable="0">
@@ -79,12 +79,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-11" value="数据库" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" parent="1" vertex="1">
-          <mxGeometry x="350" y="1090" width="90" height="100" as="geometry" />
+          <mxGeometry x="140" y="962" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.016;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="B8czsp0jkL-Ja6ON_q9m-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570.0000000000001" y="1133.3333333333333" as="sourcePoint" />
-            <mxPoint x="470" y="1130" as="targetPoint" />
+            <mxPoint x="360.0000000000001" y="1005.3333333333333" as="sourcePoint" />
+            <mxPoint x="260" y="1002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-13" value="3. 校验数据是否合规" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B8czsp0jkL-Ja6ON_q9m-12" vertex="1" connectable="0">
@@ -109,12 +109,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-21" value="服务器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1530" width="100" height="50" as="geometry" />
+          <mxGeometry x="350" y="1402" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="1390" as="sourcePoint" />
-            <mxPoint x="650" y="1530" as="targetPoint" />
+            <mxPoint x="440" y="1262" as="sourcePoint" />
+            <mxPoint x="440" y="1402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-23" value="2. 发起需要登录态的请求&lt;div&gt;（携带sessionID）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="B8czsp0jkL-Ja6ON_q9m-22" vertex="1" connectable="0">
@@ -123,12 +123,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-24" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1340" width="100" height="50" as="geometry" />
+          <mxGeometry x="350" y="1212" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-25" value="7. 返回登录成功信息" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry x="0.4706" y="-10" relative="1" as="geometry">
-            <mxPoint x="570" y="1530" as="sourcePoint" />
-            <mxPoint x="570" y="1394" as="targetPoint" />
+            <mxPoint x="360" y="1402" as="sourcePoint" />
+            <mxPoint x="360" y="1266" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -149,10 +149,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-35" value="首次登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="475" y="838" width="70" height="30" as="geometry" />
+          <mxGeometry x="265" y="710" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-36" value="再次登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="475" y="1238" width="70" height="30" as="geometry" />
+          <mxGeometry x="265" y="1110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8czsp0jkL-Ja6ON_q9m-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="B8czsp0jkL-Ja6ON_q9m-37" target="B8czsp0jkL-Ja6ON_q9m-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
