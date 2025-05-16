@@ -303,7 +303,12 @@
           <mxGeometry x="580" y="1790" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xDH4YYnAItttD99o-FEg-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xDH4YYnAItttD99o-FEg-8" target="xDH4YYnAItttD99o-FEg-20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1740" />
+              <mxPoint x="770" y="1740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xDH4YYnAItttD99o-FEg-8" value="服务器 A" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="690" y="1690" width="73.8" height="90" as="geometry" />
