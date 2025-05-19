@@ -794,8 +794,8 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-186" value="线程" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1501.4199999999998" y="2900" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-191" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="2984" width="120" height="60" as="geometry" />
+        <mxCell id="z4mfDXPaROARnQKFGCTk-192" value="只能保证单个服务器的多个线程之间的抢占" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="2965" width="128" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
