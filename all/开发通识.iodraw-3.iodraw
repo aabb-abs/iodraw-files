@@ -554,6 +554,12 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-77" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1110" y="1755" width="44.8" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-96" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;场景：执行定时任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1194.9" y="1530" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-97" target="z4mfDXPaROARnQKFGCTk-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-97" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1264.9" y="1630" width="30" height="60" as="geometry" />
         </mxCell>
@@ -583,9 +589,6 @@
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-108" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;解决方法-分离定时任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1188.6000000000001" y="1570" width="182.6" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-109" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;场景：执行定时任务&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1178.9" y="1490" width="197" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
