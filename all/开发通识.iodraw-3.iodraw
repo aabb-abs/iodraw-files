@@ -475,9 +475,6 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-39" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1110" y="1030" width="44.8" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-41" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;分布式锁的引入-无锁&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1905" width="165" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-43" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1175.2" y="1030" width="44.8" height="80" as="geometry" />
         </mxCell>
