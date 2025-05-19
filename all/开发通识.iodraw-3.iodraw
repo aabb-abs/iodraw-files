@@ -430,8 +430,8 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-10" target="z4mfDXPaROARnQKFGCTk-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-12" value="有连接池" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="2900" width="60" height="30" as="geometry" />
+        <mxCell id="z4mfDXPaROARnQKFGCTk-12" value="有连接池（&lt;span style=&quot;background-color: rgb(251, 245, 203);&quot;&gt;Lettuce&lt;/span&gt;&lt;br&gt;）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2900" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
