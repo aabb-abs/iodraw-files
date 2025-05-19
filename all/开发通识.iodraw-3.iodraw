@@ -593,6 +593,9 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-108" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;解决方法-分离定时任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1371.0000000000002" y="1580" width="182.6" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-114" target="z4mfDXPaROARnQKFGCTk-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-114" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1150" y="2050" width="44.8" height="80" as="geometry" />
         </mxCell>
