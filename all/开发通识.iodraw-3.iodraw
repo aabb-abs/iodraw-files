@@ -528,9 +528,6 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-46" target="z4mfDXPaROARnQKFGCTk-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.354;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-47" target="z4mfDXPaROARnQKFGCTk-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
