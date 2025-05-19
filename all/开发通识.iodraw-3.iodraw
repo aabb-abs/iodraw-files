@@ -870,7 +870,7 @@
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-237" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;setnx&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z4mfDXPaROARnQKFGCTk-220">
           <mxGeometry x="0.0582" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-221" value="服务器B" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
