@@ -882,7 +882,7 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-223" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.904;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-224" target="z4mfDXPaROARnQKFGCTk-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-238" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;setnx&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z4mfDXPaROARnQKFGCTk-223">
+        <mxCell id="z4mfDXPaROARnQKFGCTk-238" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;setnx&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z4mfDXPaROARnQKFGCTk-223">
           <mxGeometry x="0.3229" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
