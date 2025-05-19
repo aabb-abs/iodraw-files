@@ -476,7 +476,7 @@
           <mxGeometry x="960" y="1020" width="44.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-41" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;分布式锁的引入-无锁&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="870" width="165" height="30" as="geometry" />
+          <mxGeometry x="1025.2" y="1525" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-43" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1025.2" y="1020" width="44.8" height="80" as="geometry" />
@@ -511,7 +511,7 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-55" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;会执行几次？？&lt;span style=&quot;background-color: initial;&quot;&gt;答：8次&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;因为每台服务器都会执行一次&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1040" width="173.25" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-57" value="（1）浪费资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z4mfDXPaROARnQKFGCTk-57" value="（1）浪费资源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1263.2399999999998" y="930" width="113.38" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-60" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
@@ -549,7 +549,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-74" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;场景：执行定时任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="910" width="165" height="30" as="geometry" />
+          <mxGeometry x="990.2" y="880" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
