@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="DlX64eZTJK6a1wTfyZpe">
-    <mxGraphModel dx="2864" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2957" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -732,7 +732,7 @@
           <mxGeometry x="1100" y="2890" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-173" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;synchronized&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1216" y="2880" width="80" height="30" as="geometry" />
+          <mxGeometry x="1405.5" y="2880" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-174" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-176" target="z4mfDXPaROARnQKFGCTk-173">
           <mxGeometry relative="1" as="geometry" />
@@ -743,11 +743,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-176" value="线程" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="2860" width="80" height="30" as="geometry" />
+          <mxGeometry x="1299.5" y="2860" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-177" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-179" target="z4mfDXPaROARnQKFGCTk-173">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1230" y="2900" as="targetPoint" />
+            <mxPoint x="1419.5" y="2900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-178" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z4mfDXPaROARnQKFGCTk-177">
@@ -756,7 +756,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-179" value="线程" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="2900" width="80" height="30" as="geometry" />
+          <mxGeometry x="1299.5" y="2900" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-180" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;synchronized&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1596" y="2880" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-181" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-183" target="z4mfDXPaROARnQKFGCTk-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-182" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z4mfDXPaROARnQKFGCTk-181">
+          <mxGeometry x="0.1154" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-183" value="线程" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="2860" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-184" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-186" target="z4mfDXPaROARnQKFGCTk-180">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1610" y="2900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-185" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z4mfDXPaROARnQKFGCTk-184">
+          <mxGeometry x="-0.0888" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-186" value="线程" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="2900" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
