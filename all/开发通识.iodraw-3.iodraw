@@ -434,7 +434,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-12" value="有连接池（&lt;span style=&quot;background-color: rgb(251, 245, 203);&quot;&gt;Lettuce&lt;/span&gt;）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="2880" width="140" height="30" as="geometry" />
+          <mxGeometry x="670" y="2890" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="704" y="2920" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
