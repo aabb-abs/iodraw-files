@@ -475,8 +475,8 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-38" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="902" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-39" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1020" width="28.000000000000004" height="50" as="geometry" />
+        <mxCell id="z4mfDXPaROARnQKFGCTk-39" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1020" width="44.8" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
