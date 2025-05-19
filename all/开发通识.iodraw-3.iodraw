@@ -686,7 +686,7 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-150" value="主程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1356" y="2739" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-190" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-152" target="z4mfDXPaROARnQKFGCTk-180">
+        <mxCell id="z4mfDXPaROARnQKFGCTk-190" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-152" target="z4mfDXPaROARnQKFGCTk-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-152" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
@@ -793,9 +793,6 @@
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-186" value="线程" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1501.4199999999998" y="2900" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-141" target="z4mfDXPaROARnQKFGCTk-141">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
