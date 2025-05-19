@@ -836,7 +836,7 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-211" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;解决方法-分离定时任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1979.8000000000002" y="1610" width="182.6" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-212" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.403;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-213" target="z4mfDXPaROARnQKFGCTk-231">
+        <mxCell id="z4mfDXPaROARnQKFGCTk-212" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.045;entryY=0.184;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-213" target="z4mfDXPaROARnQKFGCTk-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-213" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
@@ -860,7 +860,7 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-219" value="主程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1798.8" y="2095" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-220" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-221" target="z4mfDXPaROARnQKFGCTk-231">
+        <mxCell id="z4mfDXPaROARnQKFGCTk-220" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.357;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-221" target="z4mfDXPaROARnQKFGCTk-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-221" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
