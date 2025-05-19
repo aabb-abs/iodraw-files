@@ -843,7 +843,7 @@
           <mxGeometry x="1758.8" y="2080" width="44.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-214" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;场景：执行定时任务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2024.9" y="1950" width="165" height="30" as="geometry" />
+          <mxGeometry x="2066.62" y="1950" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-215" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-218" target="z4mfDXPaROARnQKFGCTk-219">
           <mxGeometry relative="1" as="geometry" />
@@ -879,7 +879,7 @@
           <mxGeometry x="2105.42" y="2095" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-226" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;解决方法-Redis分布式锁&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2055.02" y="1995" width="110.2" height="30" as="geometry" />
+          <mxGeometry x="2055.02" y="1995" width="194.98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-227" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1822.7999999999997" y="2420" width="276" height="50" as="geometry" />
