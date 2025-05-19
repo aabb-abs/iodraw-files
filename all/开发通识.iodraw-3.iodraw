@@ -454,6 +454,24 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-29" value="再次操作就可以不用创建连接了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="677" y="3180" width="173" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-30" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="3210" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-31" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="920" y="3234" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-33" target="z4mfDXPaROARnQKFGCTk-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-33" value="set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="3215" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-34" value="set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="3266" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-34" target="z4mfDXPaROARnQKFGCTk-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
