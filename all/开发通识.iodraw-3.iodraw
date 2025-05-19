@@ -502,6 +502,9 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-49" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1155.2" y="1132" width="44.8" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-50" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1085" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
