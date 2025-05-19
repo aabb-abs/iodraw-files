@@ -653,9 +653,6 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-134" value="锁竞争&lt;div&gt;（假设只有一台服务器能执行定时任务）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1213.9999999999998" y="2220" width="276" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-140" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.403;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-141" target="z4mfDXPaROARnQKFGCTk-159">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-141" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1156" y="2724" width="44.8" height="80" as="geometry" />
         </mxCell>
@@ -677,17 +674,11 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-147" value="主程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1196" y="2739" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-148" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-149" target="z4mfDXPaROARnQKFGCTk-159">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-149" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1316" y="2724" width="44.8" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-150" value="主程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1356" y="2739" width="85" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-151" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.581;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-152" target="z4mfDXPaROARnQKFGCTk-159">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-152" value="服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1462.62" y="2724" width="44.8" height="80" as="geometry" />
