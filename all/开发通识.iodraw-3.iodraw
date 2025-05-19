@@ -633,7 +633,10 @@
           <mxGeometry x="1215.6999999999998" y="2370" width="276" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-133" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;" vertex="1" parent="1">
-          <mxGeometry x="1339.3" y="2274" width="38" height="52" as="geometry" />
+          <mxGeometry x="1333" y="2278" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-134" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1225.6999999999998" y="2380" width="276" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
