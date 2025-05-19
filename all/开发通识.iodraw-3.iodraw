@@ -400,7 +400,7 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="910" y="2720" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-2" target="z4mfDXPaROARnQKFGCTk-1">
+        <mxCell id="z4mfDXPaROARnQKFGCTk-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-2" target="z4mfDXPaROARnQKFGCTk-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-2" value="set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -408,6 +408,9 @@
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-3" value="set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="2752" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-3" target="z4mfDXPaROARnQKFGCTk-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
