@@ -882,9 +882,9 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-223" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.904;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-224" target="z4mfDXPaROARnQKFGCTk-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-238" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;setnx&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z4mfDXPaROARnQKFGCTk-223">
+        <mxCell id="z4mfDXPaROARnQKFGCTk-238" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;setnx false&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z4mfDXPaROARnQKFGCTk-223">
           <mxGeometry x="0.3229" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-224" value="服务器B" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
