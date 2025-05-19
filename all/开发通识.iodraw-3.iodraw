@@ -514,6 +514,11 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-57" value="（1）浪费资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1263.2399999999998" y="930" width="113.38" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-60" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1052.5" y="1300" width="60" height="80" as="geometry" />
         </mxCell>
