@@ -412,8 +412,8 @@
         <mxCell id="z4mfDXPaROARnQKFGCTk-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-3" target="z4mfDXPaROARnQKFGCTk-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z4mfDXPaROARnQKFGCTk-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="2670" width="60" height="30" as="geometry" />
+        <mxCell id="z4mfDXPaROARnQKFGCTk-6" value="无连接池" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
