@@ -687,22 +687,25 @@
           <mxGeometry x="1502.62" y="2739" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-155" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1219.9999999999998" y="3064" width="276" height="50" as="geometry" />
+          <mxGeometry x="1194.7999999999997" y="3340" width="276" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-157" target="z4mfDXPaROARnQKFGCTk-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-157" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;" vertex="1" parent="1">
-          <mxGeometry x="1339" y="2982" width="38" height="52" as="geometry" />
+          <mxGeometry x="1313.8" y="3258" width="38" height="52" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z4mfDXPaROARnQKFGCTk-159" target="z4mfDXPaROARnQKFGCTk-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-159" value="锁竞争&lt;div&gt;（假设只有一台服务器能执行定时任务）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1219.9999999999998" y="2894" width="276" height="50" as="geometry" />
+          <mxGeometry x="1194.7999999999997" y="3170" width="276" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z4mfDXPaROARnQKFGCTk-161" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;uec637658&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;synchronized关键字的局限性（本地锁的局限性）&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1422.1" y="2640" width="177.9" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z4mfDXPaROARnQKFGCTk-163" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;uec637658&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;synchronized关键字的局限性（本地锁的局限性）&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1127.3" y="2850" width="177.9" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
