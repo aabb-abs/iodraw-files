@@ -979,6 +979,9 @@
         <mxCell id="t8Jo-k4q52e2-ZIufj1c-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t8Jo-k4q52e2-ZIufj1c-9" target="t8Jo-k4q52e2-ZIufj1c-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="t8Jo-k4q52e2-ZIufj1c-26" value="left join" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
