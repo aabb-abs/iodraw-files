@@ -979,8 +979,8 @@
         <mxCell id="t8Jo-k4q52e2-ZIufj1c-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t8Jo-k4q52e2-ZIufj1c-9" target="t8Jo-k4q52e2-ZIufj1c-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t8Jo-k4q52e2-ZIufj1c-23" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;user_team ut &lt;span style=&quot;color:#cf8e6d;&quot;&gt;on &lt;/span&gt;t.&lt;span style=&quot;color:#c77dbb;&quot;&gt;id &lt;/span&gt;= ut.&lt;span style=&quot;color:#c77dbb;&quot;&gt;teamId&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="260" width="240" height="70" as="geometry" />
+        <mxCell id="t8Jo-k4q52e2-ZIufj1c-24" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;user_team ut &lt;span style=&quot;color:#cf8e6d;&quot;&gt;on &lt;/span&gt;t.&lt;span style=&quot;color:#c77dbb;&quot;&gt;id &lt;/span&gt;= ut.&lt;span style=&quot;color:#c77dbb;&quot;&gt;teamId&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
