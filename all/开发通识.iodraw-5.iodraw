@@ -979,7 +979,7 @@
         <mxCell id="t8Jo-k4q52e2-ZIufj1c-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t8Jo-k4q52e2-ZIufj1c-9" target="t8Jo-k4q52e2-ZIufj1c-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t8Jo-k4q52e2-ZIufj1c-27" value="user_team ut on t.id = ut.teamId" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="t8Jo-k4q52e2-ZIufj1c-27" value="user_team ut on t.id = ut.teamId" style="text;whiteSpace=wrap;fontStyle=1;fontColor=#FF0080;" vertex="1" parent="1">
           <mxGeometry x="1224.9999999999998" y="310" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t8Jo-k4q52e2-ZIufj1c-28" value="left join user u on ut.userId = u.id;" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
