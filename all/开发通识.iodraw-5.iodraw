@@ -974,9 +974,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t8Jo-k4q52e2-ZIufj1c-20" value="left join" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1556.62" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="1570" y="324" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t8Jo-k4q52e2-ZIufj1c-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="t8Jo-k4q52e2-ZIufj1c-9" target="t8Jo-k4q52e2-ZIufj1c-20">
+        <mxCell id="t8Jo-k4q52e2-ZIufj1c-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t8Jo-k4q52e2-ZIufj1c-9" target="t8Jo-k4q52e2-ZIufj1c-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
