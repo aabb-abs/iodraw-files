@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="DlX64eZTJK6a1wTfyZpe">
-    <mxGraphModel dx="3061" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3232" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -982,7 +982,7 @@
         <mxCell id="t8Jo-k4q52e2-ZIufj1c-27" value="user_team ut on t.id = ut.teamId" style="text;whiteSpace=wrap;fontStyle=1;fontColor=#FF0080;" vertex="1" parent="1">
           <mxGeometry x="1224.9999999999998" y="310" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t8Jo-k4q52e2-ZIufj1c-28" value="left join user u on ut.userId = u.id;" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="t8Jo-k4q52e2-ZIufj1c-28" value="left join user u on ut.userId = u.id;" style="text;whiteSpace=wrap;fontStyle=1;fontColor=#FF0080;" vertex="1" parent="1">
           <mxGeometry x="1553.25" y="275" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
