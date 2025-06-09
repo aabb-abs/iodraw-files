@@ -1004,7 +1004,7 @@
         <mxCell id="onq0vaZEjszpqDrKE3zl-10" value="拒绝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-470" y="279" width="90" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="onq0vaZEjszpqDrKE3zl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="onq0vaZEjszpqDrKE3zl-11" target="onq0vaZEjszpqDrKE3zl-13">
+        <mxCell id="onq0vaZEjszpqDrKE3zl-14" value="x修复" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="onq0vaZEjszpqDrKE3zl-11" target="onq0vaZEjszpqDrKE3zl-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="onq0vaZEjszpqDrKE3zl-15" value="已解决" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="onq0vaZEjszpqDrKE3zl-14">
@@ -1017,9 +1017,6 @@
         </mxCell>
         <mxCell id="onq0vaZEjszpqDrKE3zl-13" value="开发" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-220" y="370" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="onq0vaZEjszpqDrKE3zl-17" value="拒绝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="289" width="90" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
