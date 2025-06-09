@@ -1004,11 +1004,19 @@
         <mxCell id="onq0vaZEjszpqDrKE3zl-10" value="拒绝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-470" y="279" width="90" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="onq0vaZEjszpqDrKE3zl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="onq0vaZEjszpqDrKE3zl-11" target="onq0vaZEjszpqDrKE3zl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onq0vaZEjszpqDrKE3zl-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="onq0vaZEjszpqDrKE3zl-14">
+          <mxGeometry x="-0.0208" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="onq0vaZEjszpqDrKE3zl-11" value="接受" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="279" width="90" height="41" as="geometry" />
         </mxCell>
         <mxCell id="onq0vaZEjszpqDrKE3zl-13" value="开发" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="190" width="30" height="60" as="geometry" />
+          <mxGeometry x="-220" y="360" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
