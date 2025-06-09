@@ -1034,8 +1034,8 @@
         <mxCell id="onq0vaZEjszpqDrKE3zl-19" value="已经解决" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="469" width="90" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="onq0vaZEjszpqDrKE3zl-24" value="开发" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="380" width="30" height="60" as="geometry" />
+        <mxCell id="onq0vaZEjszpqDrKE3zl-25" value="测试" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="40" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
