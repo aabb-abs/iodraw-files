@@ -1001,8 +1001,11 @@
         <mxCell id="onq0vaZEjszpqDrKE3zl-6" value="开发" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-330" y="180" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="onq0vaZEjszpqDrKE3zl-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="onq0vaZEjszpqDrKE3zl-10" value="拒绝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="279" width="90" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="onq0vaZEjszpqDrKE3zl-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="279" width="90" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
