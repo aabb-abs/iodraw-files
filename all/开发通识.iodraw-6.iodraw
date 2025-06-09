@@ -1007,8 +1007,8 @@
         <mxCell id="onq0vaZEjszpqDrKE3zl-11" value="接受" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="279" width="90" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="onq0vaZEjszpqDrKE3zl-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="374" width="120" height="60" as="geometry" />
+        <mxCell id="onq0vaZEjszpqDrKE3zl-13" value="开发" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="190" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
