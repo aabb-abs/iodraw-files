@@ -34,7 +34,7 @@
         <mxCell id="hOfI55RyWJpkY5wBOegJ-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#00FF80;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-9" target="hOfI55RyWJpkY5wBOegJ-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hOfI55RyWJpkY5wBOegJ-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-9" target="hOfI55RyWJpkY5wBOegJ-10">
+        <mxCell id="hOfI55RyWJpkY5wBOegJ-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#33FFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-9" target="hOfI55RyWJpkY5wBOegJ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-9" value="投入 3元硬币;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -43,10 +43,10 @@
         <mxCell id="hOfI55RyWJpkY5wBOegJ-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0080;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-10" target="hOfI55RyWJpkY5wBOegJ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hOfI55RyWJpkY5wBOegJ-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-10" target="hOfI55RyWJpkY5wBOegJ-13">
+        <mxCell id="hOfI55RyWJpkY5wBOegJ-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#33FFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-10" target="hOfI55RyWJpkY5wBOegJ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hOfI55RyWJpkY5wBOegJ-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-10" target="hOfI55RyWJpkY5wBOegJ-19">
+        <mxCell id="hOfI55RyWJpkY5wBOegJ-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#33FFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-10" target="hOfI55RyWJpkY5wBOegJ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-10" value="按“奶茶”按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
