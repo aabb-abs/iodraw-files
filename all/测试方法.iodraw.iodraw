@@ -34,7 +34,7 @@
         <mxCell id="hOfI55RyWJpkY5wBOegJ-15" value="按“啤酒”按钮;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="290" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hOfI55RyWJpkY5wBOegJ-19" value="出啤酒;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hOfI55RyWJpkY5wBOegJ-19" value="&lt;div&gt;出奶茶&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="350" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
