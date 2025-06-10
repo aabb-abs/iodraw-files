@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-50" value="投入 2.5 元硬币;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="620" width="110" height="30" as="geometry" />
+          <mxGeometry x="210" y="520" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#67AB9F;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-54" target="hOfI55RyWJpkY5wBOegJ-65">
           <mxGeometry relative="1" as="geometry" />
