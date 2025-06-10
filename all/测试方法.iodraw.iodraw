@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="969" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -10,7 +10,7 @@
         <mxCell id="hOfI55RyWJpkY5wBOegJ-1" value="&lt;div&gt;原因:&lt;/div&gt;&lt;div&gt;1)投入 2.5 元硬币;&lt;/div&gt;&lt;div&gt;2)投入 3元硬币;&lt;/div&gt;&lt;div&gt;3)按“可乐”按钮;&lt;/div&gt;&lt;div&gt;4)按“啤酒”按钮;&lt;/div&gt;&lt;div&gt;5)按“奶茶”按钮。&lt;/div&gt;&lt;div&gt;中间状态&lt;/div&gt;&lt;div&gt;1)已投币;&lt;/div&gt;&lt;div&gt;2)已按按钮。&lt;/div&gt;&lt;div&gt;结果:&lt;/div&gt;&lt;div&gt;1)退还 0.5 元硬币)&lt;/div&gt;&lt;div&gt;2)出可乐;&lt;/div&gt;&lt;div&gt;3)出啤酒;&lt;/div&gt;&lt;div&gt;4)出奶茶。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="530" width="670" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="hOfI55RyWJpkY5wBOegJ-2" value="投入 2.5 元硬币;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hOfI55RyWJpkY5wBOegJ-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;投入 2.5 元硬币;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="230" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-9" value="投入 3元硬币;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
