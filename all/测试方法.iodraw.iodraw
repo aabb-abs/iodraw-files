@@ -105,7 +105,7 @@
           <mxGeometry x="210" y="590" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-58" value="按“奶茶”按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="790" width="110" height="30" as="geometry" />
+          <mxGeometry x="210" y="860" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-59" value="出啤酒;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="735" width="110" height="30" as="geometry" />
@@ -117,10 +117,10 @@
           <mxGeometry x="580" y="600" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-65" value="按“可乐”按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="610" width="110" height="30" as="geometry" />
+          <mxGeometry x="210" y="680" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-69" value="按“啤酒”按钮;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="705" width="110" height="30" as="geometry" />
+          <mxGeometry x="210" y="775" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-70" value="&lt;div&gt;出奶茶&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="800" width="110" height="30" as="geometry" />
