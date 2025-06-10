@@ -13,6 +13,9 @@
         <mxCell id="hOfI55RyWJpkY5wBOegJ-1" value="&lt;div&gt;原因:&lt;/div&gt;&lt;div&gt;1)投入 2.5 元硬币;&lt;/div&gt;&lt;div&gt;2)投入 3元硬币;&lt;/div&gt;&lt;div&gt;3)按“可乐”按钮;&lt;/div&gt;&lt;div&gt;4)按“啤酒”按钮;&lt;/div&gt;&lt;div&gt;5)按“奶茶”按钮。&lt;/div&gt;&lt;div&gt;中间状态&lt;/div&gt;&lt;div&gt;1)已投币;&lt;/div&gt;&lt;div&gt;2)已按按钮。&lt;/div&gt;&lt;div&gt;结果:&lt;/div&gt;&lt;div&gt;1)退还 0.5 元硬币)&lt;/div&gt;&lt;div&gt;2)出可乐;&lt;/div&gt;&lt;div&gt;3)出啤酒;&lt;/div&gt;&lt;div&gt;4)出奶茶。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="610" width="670" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="hOfI55RyWJpkY5wBOegJ-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-2" target="hOfI55RyWJpkY5wBOegJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-2" value="投入 2.5 元硬币;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="230" width="110" height="30" as="geometry" />
         </mxCell>
@@ -30,6 +33,9 @@
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-13" value="退还 0.5 元硬币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hOfI55RyWJpkY5wBOegJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-14" target="hOfI55RyWJpkY5wBOegJ-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-14" value="按“可乐”按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="190" width="110" height="30" as="geometry" />
