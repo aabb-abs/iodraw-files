@@ -8,7 +8,7 @@
           <mxGeometry x="120" y="255" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-1" value="&lt;div&gt;原因:&lt;/div&gt;&lt;div&gt;1)投入 2.5 元硬币;&lt;/div&gt;&lt;div&gt;2)投入 3元硬币;&lt;/div&gt;&lt;div&gt;3)按“可乐”按钮;&lt;/div&gt;&lt;div&gt;4)按“啤酒”按钮;&lt;/div&gt;&lt;div&gt;5)按“奶茶”按钮。&lt;/div&gt;&lt;div&gt;中间状态&lt;/div&gt;&lt;div&gt;1)已投币;&lt;/div&gt;&lt;div&gt;2)已按按钮。&lt;/div&gt;&lt;div&gt;结果:&lt;/div&gt;&lt;div&gt;1)退还 0.5 元硬币)&lt;/div&gt;&lt;div&gt;2)出可乐;&lt;/div&gt;&lt;div&gt;3)出啤酒;&lt;/div&gt;&lt;div&gt;4)出奶茶。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="460" width="670" height="250" as="geometry" />
+          <mxGeometry x="110" y="530" width="670" height="250" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-2" value="投入 2.5 元硬币;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="140" width="110" height="30" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="hOfI55RyWJpkY5wBOegJ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="210" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hOfI55RyWJpkY5wBOegJ-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hOfI55RyWJpkY5wBOegJ-13" value="退还 0.5 元硬币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="180" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-14" value="按“可乐”按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
