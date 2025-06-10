@@ -217,9 +217,6 @@
         <mxCell id="hOfI55RyWJpkY5wBOegJ-152" value="可移动状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="1120" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hOfI55RyWJpkY5wBOegJ-153" value="不可移动状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="1300" width="100" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
