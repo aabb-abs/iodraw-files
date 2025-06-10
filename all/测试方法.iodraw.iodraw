@@ -187,11 +187,6 @@
         <mxCell id="hOfI55RyWJpkY5wBOegJ-121" value="投入 3元硬币;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="1130" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hOfI55RyWJpkY5wBOegJ-122" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-123" target="hOfI55RyWJpkY5wBOegJ-131">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="1360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-123" value="按“奶茶”按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="1400" width="110" height="30" as="geometry" />
         </mxCell>
@@ -204,14 +199,8 @@
         <mxCell id="hOfI55RyWJpkY5wBOegJ-126" value="退还 0.5 元硬币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="1140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hOfI55RyWJpkY5wBOegJ-127" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-128" target="hOfI55RyWJpkY5wBOegJ-125">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-128" value="按“可乐”按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="1220" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hOfI55RyWJpkY5wBOegJ-129" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.981;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hOfI55RyWJpkY5wBOegJ-130" target="hOfI55RyWJpkY5wBOegJ-137">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hOfI55RyWJpkY5wBOegJ-130" value="按“啤酒”按钮;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="1315" width="110" height="30" as="geometry" />
