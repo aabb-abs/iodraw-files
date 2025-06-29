@@ -1074,9 +1074,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QafMDfwoktiYWN3X70y3-2" value="key：value" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-900" y="1020" width="100" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
