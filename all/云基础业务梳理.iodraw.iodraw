@@ -131,8 +131,15 @@
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-56" target="v5TgDvVlQsQWj9jxiFHb-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-56" target="v5TgDvVlQsQWj9jxiFHb-60">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="v5TgDvVlQsQWj9jxiFHb-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="450" as="sourcePoint" />
+            <mxPoint x="514" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="500" />
+              <mxPoint x="474" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-56" value="位置判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="410" width="80" height="80" as="geometry" />
