@@ -93,13 +93,13 @@
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-49" value="上传成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v5TgDvVlQsQWj9jxiFHb-43">
           <mxGeometry x="0.4502" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-36" value="上传过程" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-38" value="终止上传，保留本地文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
