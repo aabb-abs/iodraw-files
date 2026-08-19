@@ -153,6 +153,9 @@
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-57" value="点击打开文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-59" target="v5TgDvVlQsQWj9jxiFHb-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-59" value="判断网络状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="585" width="90.01" height="80" as="geometry" />
         </mxCell>
