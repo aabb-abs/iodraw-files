@@ -209,14 +209,19 @@
             <mxPoint x="260" y="919.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-90" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v5TgDvVlQsQWj9jxiFHb-87">
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-90" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v5TgDvVlQsQWj9jxiFHb-87">
           <mxGeometry x="0.2528" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-83">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="919.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-91" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v5TgDvVlQsQWj9jxiFHb-89">
+          <mxGeometry x="0.4043" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-83" value="是否协作文档" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
