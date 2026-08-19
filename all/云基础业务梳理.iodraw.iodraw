@@ -111,7 +111,7 @@
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-40" value="文档成功上云，开启自动保存至云端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-50" value="生成云端版本，可查看历史版本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
