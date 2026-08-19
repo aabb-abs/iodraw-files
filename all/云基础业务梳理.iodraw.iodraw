@@ -77,7 +77,7 @@
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-47" value="用户取消" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v5TgDvVlQsQWj9jxiFHb-41">
           <mxGeometry x="0.0074" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-24" y="50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-36" target="v5TgDvVlQsQWj9jxiFHb-39">
@@ -90,6 +90,11 @@
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-36" target="v5TgDvVlQsQWj9jxiFHb-40">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-49" value="上传成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v5TgDvVlQsQWj9jxiFHb-43">
+          <mxGeometry x="0.4502" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-36" value="上传过程" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-270" width="80" height="80" as="geometry" />
