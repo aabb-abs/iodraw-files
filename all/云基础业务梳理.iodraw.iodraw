@@ -217,7 +217,7 @@
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-83" value="是否协作文档" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="820" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-84" value="进入编辑模式，加编辑锁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
