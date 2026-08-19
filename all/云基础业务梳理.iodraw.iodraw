@@ -102,7 +102,7 @@
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-38" value="终止上传，保留本地文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-39" value="上传暂停，记录待上传任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
