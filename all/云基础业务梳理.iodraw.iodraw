@@ -183,6 +183,9 @@
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-73" value="短离线 / 本地漫游打开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="740" width="125" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
