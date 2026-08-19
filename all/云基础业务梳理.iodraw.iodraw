@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="pmk8Zfrmn-pPAyaEV-xg">
-    <mxGraphModel dx="1348" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1440" dy="3149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,30 +58,11 @@
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-19" value="弹出超限提示，会员提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-20" target="v5TgDvVlQsQWj9jxiFHb-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="-265" />
-              <mxPoint x="470" y="-265" />
-              <mxPoint x="470" y="-230" />
-              <mxPoint x="380" y="-230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-20" value="开始上传文档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-25" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-280" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-26" value="云标变化" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="v5TgDvVlQsQWj9jxiFHb-25">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-27" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="v5TgDvVlQsQWj9jxiFHb-25">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-31" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-160" width="120" height="80" as="geometry" />
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-31" value="云标变化" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-270" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
