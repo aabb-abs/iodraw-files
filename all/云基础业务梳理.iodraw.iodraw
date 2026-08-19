@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="pmk8Zfrmn-pPAyaEV-xg">
-    <mxGraphModel dx="1348" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1440" dy="3149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,8 +153,10 @@
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-57" value="点击打开文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-59" target="v5TgDvVlQsQWj9jxiFHb-67">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-70" value="网络正常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v5TgDvVlQsQWj9jxiFHb-68">
           <mxGeometry x="-0.0873" y="5" relative="1" as="geometry">
@@ -163,7 +165,7 @@
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-59">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="740" as="targetPoint" />
+            <mxPoint x="650" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-74" value="断网" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v5TgDvVlQsQWj9jxiFHb-72">
@@ -172,7 +174,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-59" value="判断网络状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="585" width="90.01" height="80" as="geometry" />
+          <mxGeometry x="505" y="585" width="90.01" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-60" value="本程序接打开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="585" width="120" height="60" as="geometry" />
@@ -185,6 +187,9 @@
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
