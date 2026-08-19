@@ -174,11 +174,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-74" value="断网" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v5TgDvVlQsQWj9jxiFHb-72">
-          <mxGeometry x="0.2013" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-59" value="判断网络状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="590" width="90.01" height="80" as="geometry" />
         </mxCell>
