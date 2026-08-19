@@ -55,11 +55,11 @@
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-17" value="本地文档打开编辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="179.99" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-19" value="弹出超限提示，会员提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-370" width="120" height="60" as="geometry" />
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-20" value="开始上传文档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
