@@ -161,6 +161,16 @@
             <mxPoint x="-5" y="33" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-74" value="断网" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v5TgDvVlQsQWj9jxiFHb-72">
+          <mxGeometry x="0.2013" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-59" value="判断网络状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="585" width="90.01" height="80" as="geometry" />
         </mxCell>
@@ -170,8 +180,8 @@
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-67" value="权限校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="730" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
