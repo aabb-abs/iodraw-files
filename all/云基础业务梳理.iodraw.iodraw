@@ -196,7 +196,7 @@
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-76" value="提示无权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v5TgDvVlQsQWj9jxiFHb-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.586;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-67" target="v5TgDvVlQsQWj9jxiFHb-76">
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5TgDvVlQsQWj9jxiFHb-67" target="v5TgDvVlQsQWj9jxiFHb-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-82" value="无权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v5TgDvVlQsQWj9jxiFHb-80">
@@ -206,6 +206,12 @@
         </mxCell>
         <mxCell id="v5TgDvVlQsQWj9jxiFHb-83" value="是否协作文档" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v5TgDvVlQsQWj9jxiFHb-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
