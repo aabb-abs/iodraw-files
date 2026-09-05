@@ -18,6 +18,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5wc8GH5tBkizYgM-mBZU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wc8GH5tBkizYgM-mBZU-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wc8GH5tBkizYgM-mBZU-9" value="true？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5wc8GH5tBkizYgM-mBZU-8">
+          <mxGeometry x="0.5251" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5wc8GH5tBkizYgM-mBZU-2" value="新旧弹框整体切换" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="150" width="120" height="80" as="geometry" />
         </mxCell>
