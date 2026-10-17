@@ -261,13 +261,16 @@
           <mxGeometry x="260" y="-1420" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rPh8OEiOqW-AFUbTXy3Z-9" value="接口名称（中文名称）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-1550" width="140" height="90" as="geometry" />
+          <mxGeometry x="610" y="-1530" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rPh8OEiOqW-AFUbTXy3Z-10" value="关键参数1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="rPh8OEiOqW-AFUbTXy3Z-9">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rPh8OEiOqW-AFUbTXy3Z-11" value="关键参数2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="rPh8OEiOqW-AFUbTXy3Z-9">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPh8OEiOqW-AFUbTXy3Z-12" value="关键参数3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="rPh8OEiOqW-AFUbTXy3Z-9">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rPh8OEiOqW-AFUbTXy3Z-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -278,14 +281,11 @@
         <mxCell id="rPh8OEiOqW-AFUbTXy3Z-15" value="上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="-1470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rPh8OEiOqW-AFUbTXy3Z-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rPh8OEiOqW-AFUbTXy3Z-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rPh8OEiOqW-AFUbTXy3Z-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="-1445" as="sourcePoint" />
             <mxPoint x="560" y="-1495" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rPh8OEiOqW-AFUbTXy3Z-12" value="关键参数3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="-1430" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
