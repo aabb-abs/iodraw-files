@@ -141,7 +141,7 @@
         <mxCell id="PsH5GlmRY0URBlMsKNsM-29" value="任务最终状态？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364.37" y="750" width="121.25" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PsH5GlmRY0URBlMsKNsM-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PsH5GlmRY0URBlMsKNsM-32" edge="1">
+        <mxCell id="PsH5GlmRY0URBlMsKNsM-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.961;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PsH5GlmRY0URBlMsKNsM-32" target="PsH5GlmRY0URBlMsKNsM-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540.6199999999999" y="1030" as="targetPoint" />
           </mxGeometry>
@@ -163,14 +163,14 @@
         <mxCell id="PsH5GlmRY0URBlMsKNsM-39" value="更新弹窗：正在删除文件（xx/xx）&lt;div&gt;预计剩余时间 xxmin&lt;/div&gt;&lt;div&gt;（服务端返回）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="910" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PsH5GlmRY0URBlMsKNsM-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PsH5GlmRY0URBlMsKNsM-45" target="PsH5GlmRY0URBlMsKNsM-46" edge="1">
+        <mxCell id="PsH5GlmRY0URBlMsKNsM-49" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PsH5GlmRY0URBlMsKNsM-45" target="PsH5GlmRY0URBlMsKNsM-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PsH5GlmRY0URBlMsKNsM-45" value="关闭弹窗" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="262.5" y="1030" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PsH5GlmRY0URBlMsKNsM-46" value="弹出成功toast：已删除，可前往WPS回收站还原" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="247.5" y="1100" width="140" height="50" as="geometry" />
+          <mxGeometry x="330" y="1100" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PsH5GlmRY0URBlMsKNsM-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PsH5GlmRY0URBlMsKNsM-32" target="PsH5GlmRY0URBlMsKNsM-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
