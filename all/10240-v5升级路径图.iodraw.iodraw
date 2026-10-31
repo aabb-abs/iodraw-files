@@ -265,8 +265,8 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-25" value="任务失败&lt;div&gt;首页：失败明细&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="-780" width="130" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-28" value="阻断弹窗(本次新增)&lt;div&gt;是否已创建删除任务？&lt;/div&gt;&lt;div&gt;【startpage_suppoort_v&lt;span style=&quot;background-color: initial;&quot;&gt;5门控】&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-517.5" y="-950" width="235" height="150" as="geometry" />
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-28" value="连续失败？&lt;div&gt;v5：上线3次&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="-840" width="235" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
