@@ -276,6 +276,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-28" target="Q0DnMqGBcYb_XYF1FS6D-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-28" value="连续失败？&lt;div&gt;v5：上线3次&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="-803" width="140" height="100" as="geometry" />
         </mxCell>
@@ -286,7 +289,7 @@
           <mxGeometry x="930" y="-650" width="97.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-36" value="放弃轮询&lt;div&gt;任务失败&lt;/div&gt;&lt;div&gt;V5BatchOpQueryFail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1050" y="-650" width="97.5" height="50" as="geometry" />
+          <mxGeometry x="1050" y="-650" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
