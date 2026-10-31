@@ -333,16 +333,16 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-52" target="Q0DnMqGBcYb_XYF1FS6D-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-57" value="是&lt;div&gt;&lt;div&gt;&lt;div&gt;qingshellext和qingnse已经被explorer加载&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-56">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-57" value="是&lt;div&gt;&lt;div&gt;&lt;div&gt;旧qingshellext和qingnse已经被explorer加载&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-56">
           <mxGeometry x="0.3192" y="3" relative="1" as="geometry">
-            <mxPoint x="-3" y="-4" as="offset" />
+            <mxPoint x="-3" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-52" value="右键菜单是否展示过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-492.5" y="190" width="145" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-54" value="&lt;div&gt;&lt;div&gt;创建的mutex被独立云盘读取&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-630" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="-630" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-347.5" y="310" width="120" height="40" as="geometry" />
