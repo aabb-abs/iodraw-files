@@ -376,7 +376,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-62" value="升级后&lt;div&gt;是否重启explorer&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-597" y="310" width="87" height="80" as="geometry" />
+          <mxGeometry x="-597" y="290" width="87" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-65" value="&lt;div&gt;&lt;div&gt;创建的旧mutex被独立云盘读取&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-540" y="400" width="120" height="40" as="geometry" />
@@ -396,7 +396,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-81" value="右键展示菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-292.5" y="310" width="85" height="30" as="geometry" />
+          <mxGeometry x="-295" y="300" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-88" value="展示新菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-332.5" y="440" width="65" height="20" as="geometry" />
