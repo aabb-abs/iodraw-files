@@ -327,6 +327,9 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-50" value="桌面菜单：旧&lt;div&gt;独立云盘开关：2个&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-480" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-52" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-460" y="230" width="110" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
