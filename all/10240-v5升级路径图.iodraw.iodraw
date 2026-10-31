@@ -389,13 +389,13 @@
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-91" value="&lt;div&gt;&lt;div&gt;qingshellext被explorer加载后&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;创建xinmutex&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-80">
           <mxGeometry x="-0.4333" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-81" value="右键展示菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-292.5" y="310" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-88" value="展示新菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-315" y="400" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
