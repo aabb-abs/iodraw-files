@@ -227,8 +227,8 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-12" value="total = 0？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294" y="-790" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-17" value="进行中&lt;div&gt;首页进度更新：&lt;/div&gt;&lt;div&gt;正在删除文件（xx/xx）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="-640" width="130" height="54" as="geometry" />
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-17" value="进行中&lt;div&gt;首页进度更新：&lt;/div&gt;&lt;div&gt;正在删除文件（xx/xx）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="-630" width="130" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
