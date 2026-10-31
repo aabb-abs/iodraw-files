@@ -352,6 +352,11 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-62" target="Q0DnMqGBcYb_XYF1FS6D-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-64" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-63">
+          <mxGeometry x="-0.2591" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-62" value="升级后&lt;div&gt;是否重启explorer&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-597" y="310" width="87" height="80" as="geometry" />
         </mxCell>
