@@ -385,6 +385,11 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-81" target="Q0DnMqGBcYb_XYF1FS6D-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-91" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-80">
+          <mxGeometry x="-0.4333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-81" value="右键展示菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-367.5" y="430" width="85" height="30" as="geometry" />
         </mxCell>
@@ -410,8 +415,8 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-87" value="&lt;div&gt;&lt;div&gt;创建的旧mutex被独立云盘读取&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-228" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-88" value="桌面菜单都展示为：旧&lt;div&gt;独立云盘展示：2个开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-390" y="510" width="130" height="40" as="geometry" />
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-390" y="520" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
