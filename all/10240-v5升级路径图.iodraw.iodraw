@@ -205,6 +205,9 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-9" value="&amp;nbsp;服务端回包" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="-910" width="132.5" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="-590" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
