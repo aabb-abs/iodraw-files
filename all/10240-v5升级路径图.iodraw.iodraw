@@ -324,11 +324,11 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-49" value="旧包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-472.5" y="50" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-50" value="桌面菜单：旧&lt;div&gt;独立云盘开关：2个&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-50" value="桌面菜单：旧&lt;div&gt;云盘菜单：旧&lt;br&gt;&lt;div&gt;独立云盘开关：2个&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-480" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-52" value="右键菜单是否展示过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-475" y="220" width="145" height="90" as="geometry" />
+          <mxGeometry x="-492.5" y="220" width="145" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
