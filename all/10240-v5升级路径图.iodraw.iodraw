@@ -134,7 +134,7 @@
         </mxCell>
         <mxCell id="PsH5GlmRY0URBlMsKNsM-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="PsH5GlmRY0URBlMsKNsM-39" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-265" y="-310" as="sourcePoint" />
+            <mxPoint x="-290" y="-350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PsH5GlmRY0URBlMsKNsM-41" value="未完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PsH5GlmRY0URBlMsKNsM-40" vertex="1" connectable="0">
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PsH5GlmRY0URBlMsKNsM-29" value="任务最终状态？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-325.63" y="-390" width="121.25" height="80" as="geometry" />
+          <mxGeometry x="-320.63" y="-460" width="121.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PsH5GlmRY0URBlMsKNsM-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PsH5GlmRY0URBlMsKNsM-32" target="PsH5GlmRY0URBlMsKNsM-46" edge="1">
           <mxGeometry relative="1" as="geometry">
