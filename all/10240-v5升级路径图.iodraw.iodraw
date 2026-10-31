@@ -340,9 +340,10 @@
             <mxPoint x="-3" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-52">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-248.5" y="310" as="targetPoint" />
+            <mxPoint x="-345" y="235" as="sourcePoint" />
+            <mxPoint x="-257.25" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-90" value="否&lt;br&gt;&lt;div&gt;qingshellext未经被explorer加载&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-89">
@@ -396,13 +397,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-81" value="右键展示菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-295" y="300" width="85" height="30" as="geometry" />
+          <mxGeometry x="-303.75" y="310" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-88" value="展示新菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-332.5" y="440" width="65" height="20" as="geometry" />
+          <mxGeometry x="-341.25" y="440" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-92" value="独立云盘展示一个合并开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-230" y="440" width="75" height="30" as="geometry" />
+          <mxGeometry x="-238.75" y="440" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
