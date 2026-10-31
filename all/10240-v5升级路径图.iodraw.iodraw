@@ -31,7 +31,7 @@
         </mxCell>
         <mxCell id="PsH5GlmRY0URBlMsKNsM-16" value="空闲" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PsH5GlmRY0URBlMsKNsM-15" vertex="1" connectable="0">
           <mxGeometry x="0.618" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-14" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="阻断弹窗(本次新增)&lt;div&gt;是否已创建删除任务？&lt;/div&gt;&lt;div&gt;【startpage_suppoort_v&lt;span style=&quot;background-color: initial;&quot;&gt;5门控】&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
