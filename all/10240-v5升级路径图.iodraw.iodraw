@@ -297,7 +297,7 @@
           <mxGeometry x="1030" y="-630" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-39" value="再次轮询" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="-505" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="-510" width="110" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
