@@ -276,7 +276,7 @@
             <mxPoint x="10" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-28" target="Q0DnMqGBcYb_XYF1FS6D-36">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-28" target="Q0DnMqGBcYb_XYF1FS6D-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-38" value="&amp;gt;=3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-37">
@@ -295,6 +295,9 @@
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-36" value="放弃轮询&lt;div&gt;任务失败&lt;/div&gt;&lt;div&gt;V5BatchOpQueryFail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1030" y="-630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-39" value="total = 0？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="-505" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
