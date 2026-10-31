@@ -390,7 +390,7 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-81" target="Q0DnMqGBcYb_XYF1FS6D-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-94" value="&lt;div&gt;qingshellext被explorer加载后&lt;/div&gt;&lt;div&gt;创建xinmutex&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-93">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-94" value="&lt;div&gt;qingshellext被explorer加载后&lt;/div&gt;&lt;div&gt;创建新mutex&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-93">
           <mxGeometry x="-0.766" y="-2" relative="1" as="geometry">
             <mxPoint x="2" y="2" as="offset" />
           </mxGeometry>
@@ -402,7 +402,7 @@
           <mxGeometry x="-332.5" y="440" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-92" value="独立云盘展示一个合并开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-230" y="435" width="75" height="30" as="geometry" />
+          <mxGeometry x="-230" y="440" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
