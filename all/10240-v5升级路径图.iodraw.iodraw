@@ -218,6 +218,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-24" value="HTTP 200&lt;div&gt;status = success&lt;/div&gt;&lt;div&gt;成功&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-22">
+          <mxGeometry x="-0.2206" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-9" value="&amp;nbsp;服务端回包" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="-950" width="132.5" height="100" as="geometry" />
         </mxCell>
