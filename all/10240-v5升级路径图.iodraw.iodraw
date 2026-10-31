@@ -360,6 +360,9 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-62" value="升级后&lt;div&gt;是否重启explorer&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-597" y="310" width="87" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-65" value="&lt;div&gt;&lt;div&gt;创建的旧mutex被独立云盘读取&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-670" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
