@@ -214,7 +214,7 @@
           <mxGeometry x="590" y="-950" width="132.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-11" value="准备阶段&lt;div&gt;首页弹窗：正在删除&lt;/div&gt;&lt;div&gt;不显示进度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="-630" width="130" height="54" as="geometry" />
+          <mxGeometry x="200" y="-639" width="130" height="54" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-12" value="total = 0？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294" y="-790" width="120" height="80" as="geometry" />
