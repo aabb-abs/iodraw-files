@@ -272,7 +272,7 @@
           <mxGeometry x="840" y="-803" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-30" value="退避等待后重试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="956.25" y="-692" width="130" height="54" as="geometry" />
+          <mxGeometry x="962.5" y="-680" width="130" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
