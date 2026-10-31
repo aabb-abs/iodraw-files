@@ -357,7 +357,7 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-54" target="Q0DnMqGBcYb_XYF1FS6D-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-54" value="&lt;div&gt;&lt;div&gt;创建的旧mutex被独立云盘读取&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-54" value="&lt;div&gt;&lt;div&gt;独立云盘读取&lt;/div&gt;&lt;/div&gt;&lt;div&gt;旧的mutex&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-695" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-62" target="Q0DnMqGBcYb_XYF1FS6D-54">
