@@ -74,9 +74,19 @@
             <mxPoint x="2" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PsH5GlmRY0URBlMsKNsM-13">
+        <mxCell id="PsH5GlmRY0URBlMsKNsM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PsH5GlmRY0URBlMsKNsM-13" target="PsH5GlmRY0URBlMsKNsM-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-270" y="-660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-265" y="-700" />
+              <mxPoint x="-265" y="-660" />
+              <mxPoint x="-210" y="-660" />
+              <mxPoint x="-210" y="-657" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PsH5GlmRY0URBlMsKNsM-23" value="开：v5新路径" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PsH5GlmRY0URBlMsKNsM-22" vertex="1" connectable="0">
+          <mxGeometry x="0.4313" y="3" relative="1" as="geometry">
+            <mxPoint x="1" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PsH5GlmRY0URBlMsKNsM-13" value="kfpccomb蜂巢开关" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
