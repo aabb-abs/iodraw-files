@@ -393,10 +393,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-81" value="右键展示菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-367.5" y="430" width="85" height="30" as="geometry" />
+          <mxGeometry x="-292.5" y="310" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-390" y="520" width="130" height="40" as="geometry" />
+          <mxGeometry x="-315" y="400" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
