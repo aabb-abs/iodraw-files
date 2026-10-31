@@ -379,7 +379,7 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-62" value="升级后&lt;div&gt;是否重启explorer&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-597" y="290" width="87" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-65" value="&lt;div&gt;独立云盘读取&lt;/div&gt;&lt;div&gt;旧的mutex&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-65" value="&lt;div&gt;独立云盘读取&lt;/div&gt;&lt;div&gt;新的mutex&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-540" y="402.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-68" value="桌面菜单都展示为：旧&lt;div&gt;独立云盘展示：2个开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
