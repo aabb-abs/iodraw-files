@@ -241,7 +241,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-11" value="准备阶段&lt;div&gt;首页弹窗：正在删除&lt;/div&gt;&lt;div&gt;不显示进度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="-638" width="130" height="54" as="geometry" />
+          <mxGeometry x="280" y="-670" width="130" height="54" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-12" target="Q0DnMqGBcYb_XYF1FS6D-11">
           <mxGeometry relative="1" as="geometry" />
@@ -266,7 +266,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-17" value="进行中&lt;div&gt;首页进度更新：&lt;/div&gt;&lt;div&gt;正在删除文件（xx/xx）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="-638" width="130" height="54" as="geometry" />
+          <mxGeometry x="480" y="-670" width="130" height="54" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-20" value="任务成功&lt;div&gt;首页：关弹窗+toast&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="-780" width="130" height="54" as="geometry" />
