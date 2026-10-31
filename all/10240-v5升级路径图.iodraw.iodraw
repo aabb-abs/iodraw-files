@@ -340,8 +340,10 @@
             <mxPoint x="-3" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-52" target="Q0DnMqGBcYb_XYF1FS6D-86">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-248.5" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-90" value="否&lt;br&gt;&lt;div&gt;qingshellext未经被explorer加载&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-89">
           <mxGeometry x="0.3852" relative="1" as="geometry">
@@ -392,22 +394,6 @@
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-81" value="右键展示菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-367.5" y="430" width="85" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-82" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-86" target="Q0DnMqGBcYb_XYF1FS6D-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-83" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-82">
-          <mxGeometry x="-0.2591" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-86">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-168" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-86" value="升级后&lt;div&gt;是否重启explorer&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-292" y="310" width="87" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-390" y="520" width="130" height="40" as="geometry" />
