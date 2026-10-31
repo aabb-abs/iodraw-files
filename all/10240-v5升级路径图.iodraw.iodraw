@@ -321,7 +321,7 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-49" target="Q0DnMqGBcYb_XYF1FS6D-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-49" value="旧包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-49" value="升级前旧包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-457.5" y="80" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-50" target="Q0DnMqGBcYb_XYF1FS6D-52">
