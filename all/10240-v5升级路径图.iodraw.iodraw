@@ -302,12 +302,13 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-36" value="放弃轮询&lt;div&gt;任务失败&lt;/div&gt;&lt;div&gt;V5BatchOpQueryFail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1030" y="-630" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-39">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-39" target="Q0DnMqGBcYb_XYF1FS6D-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1030.0000000000005" y="-980" as="targetPoint" />
+            <mxPoint x="1060" y="-920" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1160" y="-477" />
               <mxPoint x="1160" y="-980" />
+              <mxPoint x="1028" y="-980" />
             </Array>
           </mxGeometry>
         </mxCell>
