@@ -268,11 +268,14 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-25" value="任务失败&lt;div&gt;首页：失败明细&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="-780" width="130" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-28" target="Q0DnMqGBcYb_XYF1FS6D-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-28" value="连续失败？&lt;div&gt;v5：上线3次&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="-803" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-30" value="退避等待后重试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="962.5" y="-680" width="130" height="54" as="geometry" />
+          <mxGeometry x="962.5" y="-680" width="97.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
