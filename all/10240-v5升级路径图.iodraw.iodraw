@@ -316,7 +316,7 @@
           <mxGeometry x="280" y="-575" width="110" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-48" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;右键菜单优化&lt;/h1&gt;&lt;p&gt;场景升级时，菜单&amp;amp;独立云盘中开关显示一致性流程图&lt;/p&gt;&lt;p&gt;升级前后对比：&lt;/p&gt;&lt;p&gt;升级前，菜单为旧，独立云盘展示2个开关&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-800" y="10" width="180" height="120" as="geometry" />
+          <mxGeometry x="-800" y="10" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-49" value="旧包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-487.5" y="10" width="105" height="40" as="geometry" />
