@@ -228,7 +228,7 @@
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-27" value="HTTP 200&lt;div&gt;status = failed&lt;/div&gt;&lt;div&gt;失败&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-26">
           <mxGeometry x="0.0371" y="-1" relative="1" as="geometry">
-            <mxPoint x="6" y="1" as="offset" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-9" value="&amp;nbsp;服务端回包" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -260,10 +260,10 @@
           <mxGeometry x="390" y="-638" width="130" height="54" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-20" value="任务成功&lt;div&gt;首页：关弹窗+toast&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="-777" width="130" height="54" as="geometry" />
+          <mxGeometry x="490" y="-777" width="130" height="54" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-25" value="任务失败&lt;div&gt;首页：失败明细&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="-777" width="130" height="54" as="geometry" />
+          <mxGeometry x="680" y="-780" width="130" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
