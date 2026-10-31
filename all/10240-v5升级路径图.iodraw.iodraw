@@ -374,39 +374,36 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-68" value="桌面菜单都展示为：旧&lt;div&gt;独立云盘展示：2个开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-695" y="510" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-70" value="是&lt;div&gt;&lt;div&gt;&lt;div&gt;旧qingshellext和qingnse已经被explorer加载&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-543.4887512292398" y="283.74312308824847" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-72" target="Q0DnMqGBcYb_XYF1FS6D-79">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-81" target="Q0DnMqGBcYb_XYF1FS6D-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-72" value="&lt;div&gt;&lt;div&gt;创建的旧mutex被独立云盘读取&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-680" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-81" value="&lt;div&gt;&lt;div&gt;创建的旧mutex被独立云盘读取&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-385" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-77" target="Q0DnMqGBcYb_XYF1FS6D-72">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-82" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-86" target="Q0DnMqGBcYb_XYF1FS6D-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-74" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-73">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-83" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-82">
           <mxGeometry x="-0.2591" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-77" target="Q0DnMqGBcYb_XYF1FS6D-78">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-86" target="Q0DnMqGBcYb_XYF1FS6D-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-76" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-75">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-85" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-84">
           <mxGeometry x="-0.2657" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-77" value="升级后&lt;div&gt;是否重启explorer&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-587" y="320" width="87" height="80" as="geometry" />
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-86" value="升级后&lt;div&gt;是否重启explorer&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-292" y="310" width="87" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-78" value="&lt;div&gt;&lt;div&gt;创建的旧mutex被独立云盘读取&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-523" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-87" value="&lt;div&gt;&lt;div&gt;创建的旧mutex被独立云盘读取&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-228" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-79" value="桌面菜单都展示为：旧&lt;div&gt;独立云盘展示：2个开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-685" y="520" width="130" height="40" as="geometry" />
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-88" value="桌面菜单都展示为：旧&lt;div&gt;独立云盘展示：2个开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-390" y="510" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
