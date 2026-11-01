@@ -384,7 +384,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-65" target="Q0DnMqGBcYb_XYF1FS6D-97">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-391" y="421" />
+              <mxPoint x="-358" y="421" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-65" value="&lt;div&gt;独立云盘读取&lt;/div&gt;&lt;div&gt;新的mutex&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-454" y="360.54" width="90" height="35" as="geometry" />
@@ -413,10 +418,10 @@
           <mxGeometry x="-188.75" y="370" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-96" value="展示新菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-466.5" y="438.04" width="65" height="20" as="geometry" />
+          <mxGeometry x="-467.5" y="446.5" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-97" value="独立云盘展示一个合并开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-395.63" y="438.04" width="75" height="30" as="geometry" />
+          <mxGeometry x="-395.63" y="446.5" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
