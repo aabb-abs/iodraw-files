@@ -412,10 +412,10 @@
           <mxGeometry x="-272.5" y="326.5" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-88" value="展示新菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-310" y="456.5" width="65" height="20" as="geometry" />
+          <mxGeometry x="-297" y="456.5" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-92" value="独立云盘展示一个合并开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-240" y="456.5" width="75" height="30" as="geometry" />
+          <mxGeometry x="-227" y="456.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-96" value="展示新菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-467.5" y="446.5" width="65" height="20" as="geometry" />
