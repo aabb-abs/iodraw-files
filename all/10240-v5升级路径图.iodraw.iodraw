@@ -359,7 +359,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-54" value="&lt;div&gt;&lt;div&gt;独立云盘读取&lt;/div&gt;&lt;/div&gt;&lt;div&gt;旧的mutex&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-578" y="360.54" width="86" height="40" as="geometry" />
+          <mxGeometry x="-567" y="360.54" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-62" target="Q0DnMqGBcYb_XYF1FS6D-54">
           <mxGeometry relative="1" as="geometry" />
@@ -415,7 +415,7 @@
           <mxGeometry x="-310" y="456.5" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-92" value="独立云盘展示一个合并开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-207.5" y="456.5" width="75" height="30" as="geometry" />
+          <mxGeometry x="-240" y="456.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-96" value="展示新菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-467.5" y="446.5" width="65" height="20" as="geometry" />
