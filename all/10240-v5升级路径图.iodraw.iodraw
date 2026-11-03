@@ -87,8 +87,8 @@
         <mxCell id="PsH5GlmRY0URBlMsKNsM-13" value="kfpccomb蜂巢开关" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-450" y="-800" width="132.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PsH5GlmRY0URBlMsKNsM-17" value="完成/失败toast&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-570" y="-646.37" width="130" height="50" as="geometry" />
+        <mxCell id="PsH5GlmRY0URBlMsKNsM-17" value="完成/失败toast" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-570" y="-646.37" width="130" height="45.37" as="geometry" />
         </mxCell>
         <mxCell id="PsH5GlmRY0URBlMsKNsM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PsH5GlmRY0URBlMsKNsM-21" target="PsH5GlmRY0URBlMsKNsM-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
