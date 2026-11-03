@@ -372,7 +372,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-62" value="升级后&lt;div&gt;是否重启explorer？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-519" y="246.5" width="150" height="80" as="geometry" />
+          <mxGeometry x="-521" y="246.5" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-65" target="Q0DnMqGBcYb_XYF1FS6D-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -380,7 +380,7 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-65" target="Q0DnMqGBcYb_XYF1FS6D-97" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-391" y="421" />
+              <mxPoint x="-390" y="421" />
               <mxPoint x="-358" y="421" />
             </Array>
           </mxGeometry>
