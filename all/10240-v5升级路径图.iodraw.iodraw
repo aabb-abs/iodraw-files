@@ -417,6 +417,9 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-97" value="独立云盘展示一个合并开关" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-395.63" y="446.5" width="75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NATob246wc441Re2eA4q-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-744" y="102" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
