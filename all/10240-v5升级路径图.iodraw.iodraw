@@ -382,14 +382,6 @@
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-65" target="Q0DnMqGBcYb_XYF1FS6D-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-65" target="Q0DnMqGBcYb_XYF1FS6D-97" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-369.25" y="414.46" />
-              <mxPoint x="-329.25" y="414.46" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-65" value="&lt;div&gt;独立云盘读取&lt;/div&gt;&lt;div&gt;新的mutex&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-411.25" y="354" width="90" height="35" as="geometry" />
         </mxCell>
@@ -420,7 +412,7 @@
           <mxGeometry x="-403" y="436.5" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-97" value="独立云盘展示一个合并开关" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-361.25" y="477.46" width="75" height="30" as="geometry" />
+          <mxGeometry x="-383" y="464" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
