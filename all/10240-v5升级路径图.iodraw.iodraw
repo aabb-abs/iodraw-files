@@ -363,7 +363,7 @@
             <mxPoint x="11" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NATob246wc441Re2eA4q-3" value="&lt;div&gt;qingshellext已被explorer加载&lt;/div&gt;&lt;div&gt;旧的mutex已存在&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-63">
+        <mxCell id="NATob246wc441Re2eA4q-3" value="&lt;div&gt;qingshellext已被explorer加载&lt;/div&gt;&lt;div&gt;创建旧mutex&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-63">
           <mxGeometry x="-0.0892" y="-1" relative="1" as="geometry">
             <mxPoint x="-18" y="7" as="offset" />
           </mxGeometry>
