@@ -396,7 +396,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-65" value="独立云盘无法判断当前是新还是旧，保持旧界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-422.5" y="357" width="90" height="34.5" as="geometry" />
+          <mxGeometry x="-428" y="353" width="101.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-68" value="桌面菜单为：旧&lt;div&gt;云盘展示：2个开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-585" y="446.5" width="111" height="40" as="geometry" />
