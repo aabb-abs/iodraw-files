@@ -330,7 +330,7 @@
             <mxPoint x="-469" y="278.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-57" value="是&lt;div&gt;&lt;div&gt;&lt;div&gt;旧qingshellext已经被explorer加载&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Q0DnMqGBcYb_XYF1FS6D-56" vertex="1" connectable="0">
+        <mxCell id="Q0DnMqGBcYb_XYF1FS6D-57" value="否&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;旧qingshellext已经被explorer加载&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Q0DnMqGBcYb_XYF1FS6D-56" vertex="1" connectable="0">
           <mxGeometry x="0.3192" y="3" relative="1" as="geometry">
             <mxPoint x="-3" y="12" as="offset" />
           </mxGeometry>
@@ -416,9 +416,6 @@
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-97" value="独立云盘展示一个合并开关" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-395.63" y="446.5" width="75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NATob246wc441Re2eA4q-0" value="升级后&lt;div&gt;是否重启explorer？&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-744" y="102" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
