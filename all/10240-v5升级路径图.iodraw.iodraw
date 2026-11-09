@@ -376,11 +376,6 @@
             <mxPoint x="-6" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NATob246wc441Re2eA4q-5" value="mutex不存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0DnMqGBcYb_XYF1FS6D-66">
-          <mxGeometry x="0.3454" relative="1" as="geometry">
-            <mxPoint y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-62" value="&lt;div&gt;升级前&lt;/div&gt;右键菜单&lt;div&gt;是否展示过？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-530" y="215" width="150" height="80" as="geometry" />
         </mxCell>
@@ -425,7 +420,7 @@
           <mxGeometry x="-445" y="442" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-97" value="独立云盘保持旧界面&lt;div&gt;2个开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-392.5" y="476.5" width="75" height="30" as="geometry" />
+          <mxGeometry x="-420" y="476.5" width="111.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
