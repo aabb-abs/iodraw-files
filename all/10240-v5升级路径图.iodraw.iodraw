@@ -332,7 +332,7 @@
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-57" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Q0DnMqGBcYb_XYF1FS6D-56" vertex="1" connectable="0">
           <mxGeometry x="0.3192" y="3" relative="1" as="geometry">
-            <mxPoint x="-3" y="12" as="offset" />
+            <mxPoint x="-2" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.531;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Q0DnMqGBcYb_XYF1FS6D-81" edge="1">
@@ -343,7 +343,7 @@
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-90" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Q0DnMqGBcYb_XYF1FS6D-89" vertex="1" connectable="0">
           <mxGeometry x="0.3852" relative="1" as="geometry">
-            <mxPoint y="-37" as="offset" />
+            <mxPoint y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-52" value="升级后&lt;div&gt;是否重启explorer？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -372,7 +372,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-62" value="&lt;div&gt;升级前&lt;/div&gt;右键菜单&lt;div&gt;是否展示过？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-521" y="246.5" width="150" height="80" as="geometry" />
+          <mxGeometry x="-530" y="215" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q0DnMqGBcYb_XYF1FS6D-65" target="Q0DnMqGBcYb_XYF1FS6D-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
