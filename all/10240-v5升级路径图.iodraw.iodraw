@@ -420,7 +420,7 @@
           <mxGeometry x="-467.5" y="446.5" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0DnMqGBcYb_XYF1FS6D-97" value="独立云盘展示一个合并开关" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-395.63" y="446.5" width="75" height="30" as="geometry" />
+          <mxGeometry x="-390" y="484" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
